@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Hydejack
+title:               Yangxin's Blog
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -13,18 +13,17 @@ url:                 https://qwtel.com
 baseurl:             /hydejack
 
 # A very short description of your page
-tagline:             A pretentious two-column Jekyll theme.
+tagline:             Just write something.
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Open `_config.yml` to edit this text.
+  I am an avid scientist. 
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <Yangxin> <Zhang>
+  email:             <yangxin.zhang@gmail.com>
 
 # Fallback image and color
 image:               /hydejack/assets/img/nap.jpg
