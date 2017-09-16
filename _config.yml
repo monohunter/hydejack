@@ -10,7 +10,7 @@ url:                 https://monohunter.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             /monohunter
+baseurl:             //monohunter.github.io
 
 # A very short description of your page
 tagline:             Just write something.
@@ -53,7 +53,7 @@ disqus_shortname:    <username>
 copyright:           '&copy; 2017. All rights reserved.'
 
 # Format of the permalinks
-permalink:           /:categories/:year/:month/:day/:title 
+permalink:           pretty 
 
 # Pagination configuration (used by the `blog` layout)
 paginate:            5
