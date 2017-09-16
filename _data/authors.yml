@@ -23,7 +23,7 @@ Yangxin:
   # Icons appear in order, can be rearranged:
   social:
     # facebook:        <username>
-    twitter:         @monohunter
+    twitter:         <@monohunter>
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
@@ -46,7 +46,7 @@ Yangxin:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          monohunter
+    github:          <monohunter>
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
