@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: 关于作者
 menu: true
 order: 3
 ---
