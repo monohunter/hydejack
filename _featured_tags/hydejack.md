@@ -1,7 +1,7 @@
 ---
 layout: list
-title: 朝花夕拾
-slug: old
+title: 一些老文
+slug: 朝花夕拾
 menu: true
 order: 2
 description: >
