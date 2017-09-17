@@ -1,12 +1,9 @@
 ---
 layout: list
-title: Hydejack
-slug: hydejack
+title: 朝花夕拾
+slug: old
 menu: true
 order: 2
 description: >
-  Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by
-  [`@qwtel`](https://twitter.com/qwtel) from [Hyde](http://hyde.getpoole.com).
-  You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
-  Open `_featured_tags/hydejack.md` to edit this text.
+  这里收录了很久前写的一些旧文。
 ---
