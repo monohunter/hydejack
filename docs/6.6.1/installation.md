@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 数学笔记
+title: installation
 redirect_from:
   - /docs/latest/installation/
   - /docs/installation/
