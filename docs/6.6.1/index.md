@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 文件下载
-menu: true
+menu: false
 order: 5
 redirect_from:
   - /docs/latest/
@@ -18,5 +18,5 @@ Should you discover a mistake in the docs (or a bug in general) feel free to [op
 ## 数学文件
 * [数学笔记]{:.heading data-flip="title"} -- 数学笔记说明以及下载
 * [线性代数]{:.heading data-flip="title"} -- 
-{:.related-posts.faded}
+  {:.related-posts.faded}
 
