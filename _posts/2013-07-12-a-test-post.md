@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 暗淡蓝点
+comments: true
 tags: [朝花夕拾]
 ---
 

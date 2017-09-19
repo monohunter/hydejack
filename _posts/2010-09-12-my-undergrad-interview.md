@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 实习记
+comments: true
 tags: [朝花夕拾]
 ---
 

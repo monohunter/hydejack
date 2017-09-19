@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 拖车记
+comments: true
 tags: [朝花夕拾]
 ---
 

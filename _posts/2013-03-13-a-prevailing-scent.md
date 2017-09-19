@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 五月槐花香
+comments: true
 tags: [朝花夕拾]
 ---
 

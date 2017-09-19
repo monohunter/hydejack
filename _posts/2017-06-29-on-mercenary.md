@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 我们要务虚
+comments: true
 tags: [随笔]
 ---
 

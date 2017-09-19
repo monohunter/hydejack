@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 不要再苦苦相思
+comments: true
 tags: [朝花夕拾]
 ---
 

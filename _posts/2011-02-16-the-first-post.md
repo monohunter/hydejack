@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 此为开篇
+comments: true
 tags: [朝花夕拾]
 ---
 

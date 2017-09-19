@@ -1,6 +1,6 @@
 ---
 layout: page
-title: installation
+title: Installation
 redirect_from:
   - /docs/latest/installation/
   - /docs/installation/

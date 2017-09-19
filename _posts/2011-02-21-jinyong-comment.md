@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 为什么慕容复下场这么惨
+comments: true
 tags: [朝花夕拾]
 ---
 

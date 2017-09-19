@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 我和11楼的故事
+comments: true
 tags: [朝花夕拾]
 ---
 

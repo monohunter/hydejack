@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 这两年用MacBook Pro的经历和经验谈
+comments: true
 tags: [朝花夕拾]
 ---
 
