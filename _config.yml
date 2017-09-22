@@ -18,7 +18,7 @@ tagline:             Just write something.
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  似海客的孤岛，是大漠的古道。这苍茫的楚辞，是落雪的弓刀。 
+  似海客的孤岛，如大漠的古道。这苍茫的楚辞，是落雪的弓刀。 
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
