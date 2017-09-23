@@ -8,7 +8,7 @@ Yangxin:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    凡操千曲而后晓声，观万剑而后识器。Contact me at: yangxin.zhang@gmail.com
+    凡操千曲而后晓声，观万剑而后识器。yangxin.zhang@gmail.com
 
   # This photo will be used in the about section
   picture:
