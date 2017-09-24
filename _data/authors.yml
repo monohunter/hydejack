@@ -58,7 +58,7 @@ Yangxin:
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           mailto:<yangxin.zhang@gmail.com>
-    rss:             https://monohunter.github.io/feed.xml
+    # rss:             https://monohunter.github.io/feed.xml
 
 # Another author
 mdo:
