@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我们要务虚
+title: 务虚贵于务实
 comments: true
 tags: [随笔]
 ---
